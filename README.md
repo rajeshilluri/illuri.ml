@@ -5,3 +5,4 @@ to create a website with my personal details.
 //technologies i can able to work or took training on.
 //future focus 
 //Goal ahead.
+added inde2 html file and other apps.
